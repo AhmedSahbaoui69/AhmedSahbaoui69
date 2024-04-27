@@ -16,7 +16,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,python,django,flask,java,spring,react,javascript,typescript,html,css" /><br>
       <img src="https://skillicons.dev/icons?i=selenium,anaconda,vue,tailwind,bootstrap,sklearn,tensorflow,dart,flutter,androidstudio,idea"/><br>
-    <img src="https://skillicons.dev/icons?i=vscode,flutter,dotnet,git,docker,bash,mysql,postgres,mongodb,nodejs,npm" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,php,dotnet,git,docker,bash,mysql,postgres,mongodb,nodejs,npm" /><br>
 </div>
 
 <br/>
