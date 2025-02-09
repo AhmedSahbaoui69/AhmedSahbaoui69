@@ -4,10 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=35&pause=1000&color=A52A2A&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+There!;I'm+Ahmed!" alt="Hi There! I'm Ahmed!" />
   </div>
 
-<h2 align="center">Languages/Frameworks/Tools</h2>
-
-<br/>
-
+<h3 align="center">Languages/Frameworks/Tools</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,python,django,flask,java,spring,react,javascript,typescript,html,css" /><br>
       <img src="https://skillicons.dev/icons?i=selenium,anaconda,vue,tailwind,bootstrap,sklearn,tensorflow,dart,flutter,androidstudio,idea"/><br>
@@ -16,10 +13,7 @@
 
 <br/>
 
-<h2 align="center">Statistics</h2>
-
-<br/>
-
+<h3 align="center">Statistics</h3>
 <div align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSahbaoui69&theme=dark"/>
 </br><br/>
